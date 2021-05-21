@@ -1,0 +1,32 @@
+
+.Blog{
+    background-color: teal;
+    border-radius: 10px;
+    
+    
+
+}
+.Blog ul{
+    
+    list-style: none;
+    width: 100%;
+    text-align: center;
+    
+}
+.Blog li{
+    display: inline;
+    margin: 10px;
+    
+}
+.Blog a{
+    text-decoration: none;
+    color: white;
+}
+.Blog a:hover,
+.Blog a:active,
+.Blog a:active{
+    color: tomato;
+}
+.class{
+    color: tomato;
+}
